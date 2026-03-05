@@ -44,7 +44,7 @@ requirements.txt – dependencies
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/cardiorisk-ai.git
+git clone https://github.com/DavidVignish04/cardiorisk-ai.git
 
 Go to the project directory:
 
@@ -66,6 +66,4 @@ streamlit run app/app.py
 
 The UI will open in your browser where you can enter patient data and get a heart disease risk prediction.
 
-## Disclaimer
 
-This project is for educational purposes only and should not be used as a medical diagnostic system.
